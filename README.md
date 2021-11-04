@@ -20,6 +20,7 @@
 ▫️ [Extra Credit](https://github.com/JosephDemarest/CompSci-Courses/tree/main/Intro%20to%20Computer%20Science/Extra%20Credit)    
 ## 𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 | 𝙲𝚂𝙲 𝟸𝟷𝟷
 ▫️ [Grades](https://github.com/JosephDemarest/CompSci-Courses/tree/master/Intermediate%20Programming/Grades%20Lab)
+
 ▫️ [Grades V2](https://github.com/JosephDemarest/CompSci-Courses/tree/master/Intermediate%20Programming/Grades%20Lab%20Advanced)    
 ## 𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚝𝚑𝚎 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 | 𝙲𝚂𝙲 𝟸𝟸𝟻
 ▫️ [Project 1](https://github.com/JosephDemarest/CompSci-Courses/tree/master/Intro%20to%20Web%20Development/Project%201)    

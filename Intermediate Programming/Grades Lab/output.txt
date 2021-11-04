@@ -1,0 +1,6 @@
+NAME	AVERAGE	GRADE
+Joseph	100	A
+Gianna	93	B
+Andy	83	C
+Bucci	69	D
+Scotto	2	F

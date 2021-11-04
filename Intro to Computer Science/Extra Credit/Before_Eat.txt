@@ -1,0 +1,40 @@
+There are 15 Goldfish in bowl 1
+There are 15 Goldfish in bowl 2
+There are 15 Goldfish in bowl 3
+There are 8 Goldfish in bowl 4
+There are 8 Goldfish in bowl 5
+There are 8 Goldfish in bowl 6
+There are 8 Guppies in bowl 7
+There are 19 Guppies in bowl 8
+There are 16 Guppies in bowl 9
+There are 16 Guppies in bowl 10
+There are 16 Guppies in bowl 11
+There are 16 Guppies in bowl 12
+There are 14 Guppies in bowl 13
+There are 14 Angel Fish in bowl 14
+There are 14 Angel Fish in bowl 15
+There are 14 Angel Fish in bowl 16
+There are 14 Angel Fish in bowl 17
+There are 14 Angel Fish in bowl 18
+There are 14 Angel Fish in bowl 19
+There are 14 Angel Fish in bowl 20
+There are 14 Angel Fish in bowl 21
+There are 14 Angel Fish in bowl 22
+There are 31 Goldfish in bowl 23
+There are 31 Goldfish in bowl 24
+There are 9 Goldfish in bowl 25
+There are 9 Goldfish in bowl 26
+There are 9 Goldfish in bowl 27
+There are 9 Goldfish in bowl 28
+There are 9 Goldfish in bowl 29
+There are 26 Goldfish in bowl 30
+There are 26 Tiger Fish in bowl 31
+There are 26 Tiger Fish in bowl 32
+There are 26 Tiger Fish in bowl 33
+There are 8 Tiger Fish in bowl 34
+There are 8 Tiger Fish in bowl 35
+There are 202 Goldfish.
+There are 105 Guppies.
+There are 126 Angel Fish.
+There are 94 Tiger Fish.
+There are 527 total fish.

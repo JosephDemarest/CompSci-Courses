@@ -1,0 +1,6 @@
+NAME	Exam 1	Exam 2	Exam 3	Exam 4	Average	Grade
+Joe	88	99	67	88	85.5	B
+Gianna	77	44	78	88	71.75	D
+Andy	88	77	99	77	85.25	B
+Bucci	88	77	88	99	88	B
+Scotto	16	12	5	9	10.5	F

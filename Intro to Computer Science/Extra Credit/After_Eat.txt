@@ -1,0 +1,40 @@
+After the seal eats, there are 3 Goldfish in bowl 1
+After the seal eats, there are 7 Goldfish in bowl 2
+After the seal eats, there are 3 Goldfish in bowl 3
+After the seal eats, there are 0 Goldfish in bowl 4
+After the seal eats, there are 0 Goldfish in bowl 5
+After the seal eats, there are 0 Goldfish in bowl 6
+After the seal eats, there are 0 Guppies in bowl 7
+After the seal eats, there are 7 Guppies in bowl 8
+After the seal eats, there are 3 Guppies in bowl 9
+After the seal eats, there are 7 Guppies in bowl 10
+After the seal eats, there are 5 Guppies in bowl 11
+After the seal eats, there are 4 Guppies in bowl 12
+After the seal eats, there are 1 Guppies in bowl 13
+After the seal eats, there are 5 Angel Fish in bowl 14
+After the seal eats, there are 3 Angel Fish in bowl 15
+After the seal eats, there are 2 Angel Fish in bowl 16
+After the seal eats, there are 1 Angel Fish in bowl 17
+After the seal eats, there are 5 Angel Fish in bowl 18
+After the seal eats, there are 3 Angel Fish in bowl 19
+After the seal eats, there are 2 Angel Fish in bowl 20
+After the seal eats, there are 1 Angel Fish in bowl 21
+After the seal eats, there are 5 Angel Fish in bowl 22
+After the seal eats, there are 20 Goldfish in bowl 23
+After the seal eats, there are 19 Goldfish in bowl 24
+After the seal eats, there are 0 Goldfish in bowl 25
+After the seal eats, there are 0 Goldfish in bowl 26
+After the seal eats, there are 0 Goldfish in bowl 27
+After the seal eats, there are 0 Goldfish in bowl 28
+After the seal eats, there are 0 Goldfish in bowl 29
+After the seal eats, there are 14 Goldfish in bowl 30
+After the seal eats, there are 17 Tiger Fish in bowl 31
+After the seal eats, there are 16 Tiger Fish in bowl 32
+After the seal eats, there are 13 Tiger Fish in bowl 33
+After the seal eats, there are 0 Tiger Fish in bowl 34
+After the seal eats, there are 0 Tiger Fish in bowl 35
+There are 66 Goldfish left.
+There are 27 Guppies left.
+There are 27 Angel Fish left.
+There are 46 Tiger Fish left.
+There are 166 total fish left.
